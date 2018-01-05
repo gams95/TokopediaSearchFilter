@@ -1,0 +1,6 @@
+framework module Pods_Mini_Project_Search_Filter {
+  umbrella header "Pods-Mini Project Search Filter-umbrella.h"
+
+  export *
+  module * { export * }
+}
